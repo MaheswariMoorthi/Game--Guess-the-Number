@@ -1,0 +1,29 @@
+body{
+    background-image: url(image/bg2.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 170%;
+}
+.s1{
+    background-image: url(image/bg\ image1.jpg);background-repeat: no-repeat;background-size: 480px 250px;
+    text-align: center;
+    height: 100pxpx;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: solid black 2px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 250px;
+  
+}
+.s1 button{
+    color: white;
+    background-color: black;
+    border: solid white 2px;
+    border-radius: 5px;
+}
+.s1 input{
+    background-color: pink
+    
+}
+
